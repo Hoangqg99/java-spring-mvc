@@ -1,4 +1,5 @@
-CREATE DATABASE  IF NOT EXISTS `online_store` /*!40100 DEFAULT CHARACTER SET utf8 */;
+-- git 
+CREATE DATABASE  IF NOT EXISTS `online_store` /*!40100 DEFAULT CHARACTER SET utf8 */ ;
 USE `online_store`;
 -- MySQL dump 10.13  Distrib 5.7.11, for Win64 (x86_64)
 --
